@@ -1,2 +1,2 @@
-# Landing_page
-Create a project of Landing Page 
+# Landing Page
+A project of Landing Page 
